@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # URL → Q&A Chatbot (Google Gemini + LangChain + Streamlit)
 
 This project demonstrates a simple retrieval-augmented generation (RAG) app that:
@@ -46,3 +47,6 @@ Notes & caveats:
 - This example uses an in-memory FAISS index and is intended for demo / toy usage only.
 - API usage may incur costs. Monitor your Google account.
 - Adjust chunk sizes, model names, and retrieval parameters as needed.
+=======
+# WebMind
+>>>>>>> c3e1974fde78a2b46d018a8dc6ef25c439d3229b
